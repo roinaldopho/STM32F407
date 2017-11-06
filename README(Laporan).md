@@ -38,6 +38,10 @@ Telah menginstall GNU Tool ARM Embedded
 Telah menginstall ST-LINK 07
 Telah mencoba program bawaan STM32F407 yang berfungsi sebagai mouse
 
-Progress tgl 6 November 2017:
+Progress tgl 5 November 2017:
 ![error saat run](https://user-images.githubusercontent.com/32188146/32440077-2d9634e6-c324-11e7-9bfb-7e7cb8a7cc20.png)
+Error terjadi karena belum menginstall pack 
 
+Progress tgl 6 November 2017:
+![photokk](https://user-images.githubusercontent.com/32188146/32440185-a72e21f6-c324-11e7-9d81-cabf162fc733.png)
+Program sudah berhasil di run as 
