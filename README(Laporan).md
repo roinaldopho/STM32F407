@@ -22,7 +22,7 @@ The STM32F4DISCOVERY offers the following features:
 
 Reference Manual 
 
-Program bawaan dari STM32F407 DIscovery Kit merrupkan program untuk menjalankan board seperti mouse
+Program bawaan dari STM32F407 Discovery Kit merrupkan program untuk menjalankan board seperti mouse
 Caranya:
 1. Pastikan JP1 dan CN3 terkoneksi
 2. Hubungkan board dengan power supply dengan menhubungkan kabel mini B ke port CN1
@@ -32,10 +32,10 @@ Caranya:
 6. Selesai, STM32F407 DIscovery Kit telah menjadi sebuah mouse :)
 
 Progress:
-Telah menginstall GNU ARM Esclipe\n
-Telah menginstall Esclipse Oxygen\n
-Telah menginstall GNU Tool ARM Embedded\n
-Telah menginstall ST-LINK 07\n
+Telah menginstall GNU ARM Esclipe
+Telah menginstall Esclipse Oxygen
+Telah menginstall GNU Tool ARM Embedded
+Telah menginstall ST-LINK 07
 Telah mencoba program bawaan STM32F407 yang berfungsi sebagai mouse
 
 Progress tgl 5 November 2017:
