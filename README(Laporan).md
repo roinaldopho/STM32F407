@@ -32,10 +32,10 @@ Caranya:
 6. Selesai, STM32F407 DIscovery Kit telah menjadi sebuah mouse :)
 
 Progress:
-Telah menginstall GNU ARM Esclipe
-Telah menginstall Esclipse Oxygen
-Telah menginstall GNU Tool ARM Embedded
-Telah menginstall ST-LINK 07
+Telah menginstall GNU ARM Esclipe\n
+Telah menginstall Esclipse Oxygen\n
+Telah menginstall GNU Tool ARM Embedded\n
+Telah menginstall ST-LINK 07\n
 Telah mencoba program bawaan STM32F407 yang berfungsi sebagai mouse
 
 Progress tgl 5 November 2017:
