@@ -45,3 +45,5 @@ Error terjadi karena belum menginstall pack
 Progress tgl 6 November 2017:
 ![photokk](https://user-images.githubusercontent.com/32188146/32440185-a72e21f6-c324-11e7-9d81-cabf162fc733.png)
 Program sudah berhasil di run as 
+
+- [ ] Tambahkan kode sumber dan foto!
